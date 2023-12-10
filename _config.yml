@@ -50,11 +50,11 @@ features                                  :
 
   - title                                 : Keep track
     description                           : Check off activities from your list as you go along.
-    fontawesome_icon_name                 : list-check
+    fontawesome_icon_name                 : check-double
 
   - title                                 : Re-order
     description                           : Rearrange your day by drag and dropping the activities.
-    fontawesome_icon_name                 : arrow-up-wide-sort
+    fontawesome_icon_name                 : sort
 
 # Theme Settings
 topbar_color                              : "#000000"
