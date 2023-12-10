@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terms and Conditions
-include_in_header: false
+include_in_header: true
 ---
 
 **Terms & Conditions**
