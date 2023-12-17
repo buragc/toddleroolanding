@@ -15,7 +15,7 @@ Designed for GitHub Pages for super easy set up.
 
 🕒 Keep a changelog in `CHANGELOG.md`
 
-✅ Site becomes live at GitHub Pages repository URL, e.g. `https://your-username.github.io/your-repo-name/`.
+✅ Site becomes live at GitHub Pages repository URL, e.g. `https://buragc.github.io/toddleroolanding/`.
 
 <img src="https://emilbaehr.com/files/jayson1.png" width="440"> <img src="https://emilbaehr.com/files/slor1.png" width="440">
 
@@ -25,7 +25,7 @@ Designed for GitHub Pages for super easy set up.
 ## Quick Start
 
 ### Step 1: Fork this repo.
-After forking the repo, your site will be live immediately on your personal Github Pages account, e.g. `https://yourusername.github.io/your-repo-name/`.
+After forking the repo, your site will be live immediately on your personal Github Pages account, e.g. `[https://buragc.github.io/toddleroolanding/](https://buragc.github.io/toddleroolanding/)`.
 
 *Make sure GitHub Pages is enabled for your repo. It might take some time for the site to propagate entirely.*
 
